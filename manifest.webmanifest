@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Saliseuranta 4.0",
+  "short_name": "Saliseuranta",
+  "description": "Koko vartalon A/B/C, älykkäät salisuositukset, painonpudotuksen kehitys ja vuorotyöhön sopiva harjoitussuunnittelu.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1115",
+  "theme_color": "#0b1115",
+  "lang": "fi",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
